@@ -55,7 +55,7 @@ navigate to localhost:4567 to view the website.
 10. Create  sightings table: wild_track# CREATE TABLE sightings ( animal string, location string, ranger_name string );
 11. Connect to database: \c
 
-##Technologies used
+## Technologies used
 - Java , intellij IDEA
 - **[Maven] (https://maven.apache.org/)**
 - Heroku CLI
